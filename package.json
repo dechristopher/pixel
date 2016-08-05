@@ -1,0 +1,26 @@
+{
+  "name": "pixel",
+  "version": "1.0.0",
+  "description": "A webapp for creating and using email tracking pixels.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dechristopher/pixel.git"
+  },
+  "keywords": [
+    "node",
+    "tracking",
+    "pixel",
+    "email",
+    "webapp"
+  ],
+  "author": "Andrew DeChristopher <dechristophera@wit.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dechristopher/pixel/issues"
+  },
+  "homepage": "https://github.com/dechristopher/pixel#readme"
+}
