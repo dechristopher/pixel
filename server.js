@@ -30,7 +30,7 @@ app.get('/', function (req, res, next) {
         }));
         console.log('[APP] GET /');
     } catch (e) {
-        next(e)
+        next(e);
     }
 });
 
